@@ -11,9 +11,9 @@ theme: minima
 markdown: kramdown
 highlighter: rouge
 
-# Social media usernames
-twitter_username: @aj_success
-github_username: successaje
+# # Social media usernames
+# twitter_username: @aj_success
+# github_username: successaje
 
 # Navigation links
 nav:
