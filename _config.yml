@@ -1,11 +1,12 @@
-title : Success Aje
+# title : Success Aje
+logo: /assets/profile.jpeg
 description: >- # this means to ignore newlines until "baseurl:"
   Greetings, explorer! Join me on a journey through the digital landscapes of my portfolio, where ideas take shape and dreams become code.
 author: Success Aje
 email: successaje7@gmail.com
 
 # Theme settings
-theme: minima
+theme: jekyll-theme-minimal
 
 # Build settings
 markdown: kramdown
