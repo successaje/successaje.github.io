@@ -1,3 +1,32 @@
 title : Success Aje
+description: >- # this means to ignore newlines until "baseurl:"
+  Greetings, explorer! Join me on a journey through the digital landscapes of my portfolio, where ideas take shape and dreams become code.
+author: Success Aje
+email: successaje7@gmail.com
 
+# Theme settings
+theme: minima
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Social media usernames
+twitter_username: @aj_success
+github_username: successaje
+
+# Navigation links
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "About"
+    link: "/about/"
+  - name: "Projects"
+    link: "/projects/"
+  - name: "Blog"
+    link: "/blog/"
+  - name: "Contact"
+    link: "/contact/"
+
+  
 show_downloads : true
