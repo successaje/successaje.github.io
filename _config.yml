@@ -6,7 +6,7 @@ author: Success Aje
 email: successaje7@gmail.com
 
 # Theme settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-modernist
 
 # Build settings
 markdown: kramdown
