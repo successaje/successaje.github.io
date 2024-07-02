@@ -11,7 +11,7 @@ redirect_from:
 ![Illustration](/images/comp.webp){: .align-right width="300px"} 
 💻 I'm a web developer with over three years of experience in the tech industry. My journey began with API development using Django, Python, and Node.js, I've since mastered blockchain technologies like Solidity, Motoko, and Rust. 🚀
 
-I have a Bachelors in Computer Engineering from [University of Technology](https://futa.edu.ng/)
+I have a Bachelors in Computer Engineering from [Federal University of Technology, Akure](https://futa.edu.ng/)
 
 ## Professional Journey so far.... 💼
 
