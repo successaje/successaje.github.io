@@ -1,10 +1,8 @@
 ---
 title: Kawak
-excerpt: "A decentralized writing tool built on blockchain technology, enabling secure and transparent content creation and distribution <br/><img src='/images/logo.png'>"
+excerpt: "A decentralized writing tool built on blockchain technology, enabling secure and transparent content creation and distribution"
 collection: portfolio
 ---
-
-# Kawak
 
 Kawak is a groundbreaking decentralized writing tool designed to revolutionize content creation and distribution using blockchain technology. As a senior developer on the project, I contributed to building the backend infrastructure using Django Rest Framework, Motoko, and Rust. 
 
