@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there, I`m Success 👋"
+title: "Welcome to My Digital Domain!🤞🌐"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,11 @@ redirect_from:
 
 
 ![Illustration](/images/comp.webp){: .align-right width="300px"} 
-💻 I'm a versatile web developer with over three years of experience in the tech industry. My journey began with API development using Django, Python, and Node.js, and I transitioned into blockchain technologies, mastering Solidity, Motoko, and Rust. 🚀
+💻 I'm a web developer with over three years of experience in the tech industry. My journey began with API development using Django, Python, and Node.js, I've since mastered blockchain technologies like Solidity, Motoko, and Rust. 🚀
 
-## Professional Journey 💼
+I have a Bachelors in Computer Engineering from [University of Technology](https://futa.edu.ng/)
+
+## Professional Journey so far.... 💼
 
 ### Senior Blockchain Developer | Manilla Finance
 - 💡 **Smart Contract Development**: Designed, developed, and deployed smart contracts on the Ethereum blockchain to facilitate staking, rewards distribution, and token transfers.
@@ -60,7 +62,7 @@ Try: [Kawak](https://3ysab-rqaaa-aaaan-qaewq-cai.ic0.app/)
 ## Education 🎓
 **Bachelor of Engineering in Computer Engineering**  
 The Federal University of Technology Akure  
-Jan 2019 – Dec 2023
+Dec 2023
 
 ## Interests 🌟
 - ⛓️ Blockchain and dApps
@@ -69,7 +71,7 @@ Jan 2019 – Dec 2023
 - 🌐 Learning new languages (both programming and human languages)
 
 ## Accomplishments 🏆
-- 📈 Co-founded Marvin BI and contributed to its growth.
+- 📈 Co-founded Game Bloc and contributed to its growth.
 - 📜 Certified in Python, CSS, Django, Bootstrap, jQuery, JavaScript.
 - 🏅 Awarded Motoko Mech NFT and ICP from Zero to Hero NFT.
 - 🔗 Certified in Solana and Tezos blockchain development.
@@ -81,4 +83,4 @@ Jan 2019 – Dec 2023
 - ICP, Solana, Tezos Blockchain Developer Certifications
 
 ---
-Feel free to reach out to me on [Twitter](https://x.com/aj_success) or [LinkedIn](https://www.linkedin.com/in/success-aje-373979201/). Let's connect and collaborate on innovative projects! 🤝
+Feel free to reach out to me on [Twitter](https://x.com/aj_success) or [LinkedIn](https://www.linkedin.com/in/success-aje-373979201/). Let's connect and talk on innovative projects! 🤝
