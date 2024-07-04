@@ -64,17 +64,12 @@ The Federal University of Technology Akure
 - 🎨 Art and Creativity (Anime fan)
 - 🌐 Learning new languages (both programming and human languages)
 
-## Accomplishments 🏆
+## Accomplishments/Certifications 🏆📜
 - 📈 Co-founded Game Bloc and contributed to its growth.
-- 📜 Certified in Python, CSS, Django, Bootstrap, jQuery, JavaScript.
+- 📜 Certified in Python, Django, Bootstrap, jQuery, JavaScript.
 - 🏅 Awarded Motoko Mech NFT and ICP from Zero to Hero NFT.
-- 🔗 Certified in Solana and Tezos blockchain development.
+- 🔗 Certified in Solana, ICP and Tezos blockchain development.
 
-## Certifications 📜
-- Python, CSS, C# — SoloLearn
-- Django, Bootstrap, jQuery, CSS — Udemy
-- JavaScript — Udemy
-- ICP, Solana, Tezos Blockchain Developer Certifications
 
 ---
 Feel free to reach out to me on [Twitter](https://x.com/aj_success) or [LinkedIn](https://www.linkedin.com/in/success-aje-373979201/). Let's connect and talk on innovative projects! 🤝
