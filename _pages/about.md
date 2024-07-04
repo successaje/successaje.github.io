@@ -22,7 +22,8 @@ I have a Bachelor's in Computer Engineering from <a href="https://futa.edu.ng/" 
 - 🌊 **Liquidity Provision**: Integrated with PancakeSwap to add liquidity, enabling decentralized trading and liquidity pools.
 
 
-Website: [Manilla Finance](https://manilla.finance/)
+Website: <a href="https://manilla.finance/" target="_blank">Manilla Finance</a>
+
 
 
 
@@ -32,8 +33,9 @@ Website: [Manilla Finance](https://manilla.finance/)
 - 🏆 Implemented ICP-ledger canister for transactions in tournaments.
 - 🌍 Established a world-chat feature.
 
-Try: [GameBloc](https://cv4ma-4qaaa-aaaal-adntq-cai.icp0.io/)  
-GitHub: [GameBloc Repository](https://github.com/Game-Bloc/Gamebloc-ICP)
+Try: <a href="https://cv4ma-4qaaa-aaaal-adntq-cai.icp0.io/" target="_blank">GameBloc</a>
+GitHub: <a href="https://github.com/Game-Bloc/Gamebloc-ICP" target="_blank">GameBloc Repository</a>
+
 
 
 
@@ -42,7 +44,7 @@ GitHub: [GameBloc Repository](https://github.com/Game-Bloc/Gamebloc-ICP)
 - 🔒 Enhanced security with API and HTTPs Outcalls.
 - 🔐 Implemented blockchain-based authentication.
 
-Try: [Kawak](https://3ysab-rqaaa-aaaan-qaewq-cai.ic0.app/)
+Try: <a href="https://3ysab-rqaaa-aaaan-qaewq-cai.ic0.app/" target="_blank">Kawak</a>
 
 
 
