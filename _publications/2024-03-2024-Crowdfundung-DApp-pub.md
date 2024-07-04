@@ -7,7 +7,6 @@ paperurl: 'https://successaje.github.io/files/Abstract.pdf'
 citation: 'Aje, S.(2024). *Decentralised Crowdfunding platform built on Solana using Rust Anchor framework*. Unpublished manuscript, supervised by Prof. E.O. Ogunti, Department of Computer Engineering, The Federal University of Technology Akure '
 ---
 
-# Decentralised Crowdfunding Platform Built on Solana Using Rust Anchor Framework
 
 **Author:** Success Aje  
 **Institution:** *The Federal University of Technology Akure*  
