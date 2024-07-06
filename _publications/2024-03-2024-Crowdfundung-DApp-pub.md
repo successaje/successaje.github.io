@@ -3,8 +3,8 @@ title: "Blockchain Crowfunding DApp"
 collection: publications
 permalink: /publication/Crowdfunding DApp built on Solana
 excerpt: 'A detailed overview of the development and implementation of a decentralised crowdfunding platform on the Solana blockchain using the Anchor framework.'
-paperurl: 'https://successaje.github.io/files/Abstract.pdf'
-citation: 'Aje, S.(2024). <em>Decentralised Crowdfunding platform built on Solana using Rust Anchor framework</em>. Unpublished manuscript, supervised by Prof. E.O. Ogunti, Department of Computer Engineering, The Federal University of Technology Akure '
+paperurl: 'https://successaje.github.io/files/Abstrct.pdf'
+citation: 'Aje, S.(2024). Decentralised Crowdfunding platform built on Solana using Rust Anchor framework. Unpublished manuscript, supervised by Prof. E.O. Ogunti, Department of Computer Engineering, The Federal University of Technology Akure '
 ---
 
 
