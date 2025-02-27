@@ -34,4 +34,4 @@ GameBloc represents the future of gaming, empowering players and developers in a
 
 ---
 
-Explore more about GameBloc and join the gaming revolution [here](https://cv4ma-4qaaa-aaaal-adntq-cai.ic0.io/).
+Explore more about GameBloc and join the gaming revolution [here](https://gamebloc.app/).
