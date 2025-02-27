@@ -33,7 +33,7 @@ Website: <a href="https://manilla.finance/" target="_blank">Manilla Finance</a>
 - 🏆 Implemented ICP-ledger canister for transactions in tournaments.
 - 🌍 Established a world-chat feature.
 
-Try: <a href="https://cv4ma-4qaaa-aaaal-adntq-cai.icp0.io/" target="_blank">GameBloc</a>
+Try: <a href="https://gamebloc.app/" target="_blank">GameBloc</a>
 GitHub: <a href="https://github.com/Game-Bloc/Gamebloc-ICP" target="_blank">GameBloc Repository</a>
 
 
