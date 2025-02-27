@@ -1,7 +1,7 @@
 **Web Developer**
 
 ## Profile
-I'm a versatile web developer with three years of experience. My journey began with API development using Django, Python, and Node.js, and I swiftly transitioned into blockchain technologies, mastering Solidity, Motoko, and Rust. I'm a quick learner, always eager to take on new challenges. My career highlights include contributions to projects like Kawak, a decentralized writing tool, and GameBloc, a thriving gaming platform with 1400+ users. My diligence and commitment to excellence shine through in building smart contracts on platforms like Solana, ICP, Ethereum, and Tezos. I'm passionate about staying up-to-date with industry trends and eager to contribute to innovative tech projects.
+Passionate and results-driven Blockchain Developer with extensive experience in smart contract development, decentralized applications (DApps), and Web3 ecosystems. Proven track record of building high-performance blockchain solutions across multiple networks, including Solana, Ethereum, ICP, NEAR, Polygon, Stellar, BNB Chain, and Flow. Adept at designing secure, scalable, and user-centric applications, from DeFi platforms to NFT-based gaming ecosystems. A consistent hackathon winner, I excel at building innovative products, collaborating with global developer communities, and pushing the boundaries of decentralized technology.
 
 ## Employment History
 
